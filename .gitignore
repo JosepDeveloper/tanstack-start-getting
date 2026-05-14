@@ -11,6 +11,7 @@ dist-ssr
 .vinxi
 __unconfig*
 todos.json
+pnpm-lock.yaml
 
 # Created by https://www.toptal.com/developers/gitignore/api/react,node,deno,linux,windows,macos,nextjs
 # Edit at https://www.toptal.com/developers/gitignore?templates=react,node,deno,linux,windows,macos,nextjs
